@@ -1,0 +1,164 @@
+﻿[
+	{
+		"Titulo": "Cores Nomes",
+		"Artista": "Caetano Veloso",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Polygram Discos Ltda",
+		"Ano": "1982",
+		"Imagem": "./img/CoresCaetano.jpg"
+	},
+	{
+		"Titulo": "Notorious",
+		"Artista": "Duran Duran",
+		"Discos": "1",
+		"Origem ": "Internacional",
+		"Produtora": "EMI Records",
+		"Ano": "1986",
+		"Imagem": "./img/NotoriousDuranDuran.jpg"
+	},
+	{
+		"Titulo": "The Queen Is Dead",
+		"Artista": "The Smiths",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "RCA Eletronica Ltda",
+		"Ano": "-",
+		"Imagem": "./img/TheQueenIsDeadTheSmiths.jpg"
+	},
+	{
+		"Titulo": "Paralamas Arquivo Maiores Sucessos",
+		"Artista": "Os Paralamas do Sucesso",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Fonobras",
+		"Ano": "1990",
+		"Imagem": "./img/OsParalamasDoSucessoArquivo.jpg"
+	},
+	{
+		"Titulo": "O Tempo não Pára - Ao Vivo",
+		"Artista": "Cazuza",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Polygram Discos Ltda",
+		"Ano": "1988",
+		"Imagem": "./img/OTempoNaoParaCazuzaAoVivo.jpg"
+	},
+	{
+		"Titulo": "Standing On A Beach - The Singles",
+		"Artista": "The Cure",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Polygram Discos Ltda",
+		"Ano": "1986",
+		"Imagem": "./img/StandingOnABeachTheCure.jpg"
+	},
+	{
+		"Titulo": "New Order",
+		"Artista": "New Order",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "RCA Eletronica Ltda",
+		"Ano": "-",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "Arena - Recorded Around The World 1984",
+		"Artista": "Duran Duran",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "EMI - ODEON",
+		"Ano": "1984",
+		"Imagem": "./img/ArenaDuranDuran.jpg"
+	},
+	{
+		"Titulo": "Out Of Time",
+		"Artista": "R.E.M.",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-",
+		"Imagem": "./img/OutOfTimeREM.jpg"
+	},
+	{
+		"Titulo": "The Joshua Tree",
+		"Artista": "U2",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "RCA Eletronica Ltda",
+		"Ano": "-",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "Concert - The Cure Live",
+		"Artista": "The Cure",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Fonobras",
+		"Ano": "1984",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "Kiss Me Kiss Me Kiss Me",
+		"Artista": "The Cure",
+		"Discos": "2",
+		"Origem ": "Nacional",
+		"Produtora": "Fonobras",
+		"Ano": "1987",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "Tracy Chapman",
+		"Artista": "Tracy Chapman",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "O Papa é Pop",
+		"Artista": "Engenheiros do Hawaii",
+		"Discos": "2",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "Technique",
+		"Artista": "New Order",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-",
+		"Imagem": ""
+	},
+	{
+		"Titulo": "As Quatro Estações",
+		"Artista": "Legião Urbana",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "Mayrton Bahia",
+		"Ano": "-"
+	},
+	{
+		"Titulo": "The Immaculate Collection",
+		"Artista": "Madonna",
+		"Discos": "2",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-"
+	},
+	{
+		"Titulo": "Watermark",
+		"Artista": "Enya",
+		"Discos": "1",
+		"Origem ": "Nacional",
+		"Produtora": "BMG Ariola Discos Ltda",
+		"Ano": "-"
+	},
+	{
+		"Titulo": ""
+	}
+]
