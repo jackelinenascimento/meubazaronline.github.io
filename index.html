@@ -14,7 +14,7 @@
 <body>
     <nav class="b-bottom d-flex ">
         <nav class="navbar navbar-expand-lg navbar-light bg-white container align-items-center">
-            <a class="navbar-brand size-logo" href="#"><img src="./img/logo.png" alt="Logo do Meu Bazar On-line"> </a>
+            <a class="navbar-brand size-logo" href="./index.html"><img src="./img/logo.png" alt="Logo do Meu Bazar On-line"> </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -24,7 +24,7 @@
                 <div>
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active px-2">
-                            <a class="nav-link" href="#">Home</a>
+                            <a class="nav-link" href="./index.html">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link px-2" href="./pages/books/books.html">Livros e mais livros</a>
@@ -61,7 +61,7 @@
                     <p>Certeza que você vai achar algo que te interessa, aí marcamos a entrega onde fica melhor
                     para ambos. Obvio que eu posso enviar por correios também, após confirmação de
                     pagamento!</p>
-                    <button type="button" class="btn btn-info">Confira todos!</button>
+                    <button type="button" class="btn btn-info" onclick="window.location.href='./pages/books/books.html'">Confira todos!</button>
                 </div>
                 <div class="imagens m-4 w-50">
                     <img width="90%" src="./img/books-home.jpg" alt="foto de uma prateleira de livros">
@@ -80,47 +80,48 @@
                     <p>Desapego... <strong>desapego</strong> e desapego!</p>
                     <p>Curte uma pegada mais vintage? Dá uma olhada na coleção que eu tenho, quem sabe não te
                         interessa?!</p>
-                    <button type="button" class="btn btn-info">Corre lá!</button>
+                    <button type="button" class="btn btn-info" onclick="window.location.href='./pages/records/records.html'">Corre lá!</button>
                 </div>
             </section>
-
-
         </section>
         <div class="space w-100"></div>
     </main>
 
     <footer class="b-top page-footer font-small pt-4 footer-color">
-        <div class="container-fluid text-center text-md-left container d-flex justify-content-between">
-            <div class="row">
-                <div class="col-md-6 mt-md-0 mt-3">
-                    <h5 class="text-uppercase">Meu Bazar On-line</h5>
-                    <p>Livros usados mas cuidados com o coração e discos acumulados! Confira ao
-                        lado!</p>
-                </div>
-                <hr class="clearfix w-100 d-md-none pb-3">
-                <div class="col-md-3 mb-md-0 mb-3">
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="./pages/books/books.html">Livros e mais livros</a>
-                        </li>
-                        <li>
-                            <a href="./pages/records/records.html">Discos também!</a>
-                        </li>
-                        <li>
-                            <a href="./pages/contact/contato.html">Contato</a>
-                        </li>
-                    </ul>
+            <div class="container-fluid text-center text-md-left">
+                <div class="row">
+                    <div class="col-md-6 mt-md-0 mt-3">
+                        <h5 class="text-uppercase">Meu Bazar On-line</h5>
+                        <p>Livros usados mas cuidados com o coração e discos acumulados! Confira ao
+                            lado!</p>
+                    </div>
+                    <hr class="clearfix w-100 d-md-none pb-3">
+                    <div class="col-md-3 mb-md-0 mb-3">
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="/index.html">Home</a>
+                            </li>
+                            <li>
+                                <a href="./pages/books/books.html">Livros e mais livros</a>
+                            </li>
+                            <li>
+                                <a href="./pages/records/records.html">Discos também!</a>
+                            </li>
+                            <li>
+                                <a href="./pages/contact/contato.html">Contato</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="footer-copyright text-center final-footer">
-            <a id="subirTopo">
-                ^ <br> subir
-            </a>
-            <p class="m-0">© 2019 <strong>Meu Bazar On-line: </strong>Todos
-                direitos reservados.</p>
-        </div>
-    </footer>
+            <div class="footer-copyright text-center final-footer">
+                <a id="subirTopo">
+                    ^ <br> subir
+                </a>
+                <p class="m-0">© 2019 <strong>Meu Bazar On-line: </strong>Todos
+                    direitos reservados.</p>
+            </div>
+        </footer>
     <script src="./script/jquery-3.4.1.min.js"></script>
     <script src="./script/bootstrap.min.js"></script>
     <script src="./script/script.js"></script>

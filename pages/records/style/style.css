@@ -9,6 +9,9 @@ body {
 .footer-color {
     background-color: rgb(0, 153, 204);
 }
+.footer-color a {
+    color:white;
+}
 
 .b-top {
     border-top: 3px solid #DEA257;
