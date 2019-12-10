@@ -16,6 +16,4 @@ jQuery(document).ready(function () {
             jQuery('#subirTopo').fadeOut();
         }
     });
-
 });
-
