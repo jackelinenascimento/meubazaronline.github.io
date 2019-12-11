@@ -4,7 +4,7 @@ function cards(json){
     return `
     <div class="card m-4" style="width: 18rem">
         <img class="card-img-top" src="./img/${json.image}" alt="Card image cap">   
-        <h5 class="card-title"><strong>${json.name}</strong></h5>
+        <h5 class="card-title text-center mt-4"><strong>${json.name}</strong></h5>
         <p class="card-text">Autor:<strong> ${json.autor}</strong></p>    
         <p class="card-text">Gênero:<strong> ${json.genre}</strong></p> 
         <p class="card-text">Lingua:<strong> ${json.language}</strong></p>
@@ -27,23 +27,3 @@ async function books() {
 
 books()
 
-
-jQuery(document).ready(function () {
-
-    jQuery("#subirTopo").hide();
-
-    jQuery('a#subirTopo').click(function () {
-        jQuery('body,html').animate({
-            scrollTop: 0
-        }, 800);
-        return false;
-    });
-
-    jQuery(window).scroll(function () {
-        if (jQuery(this).scrollTop() > 800) {
-            jQuery('#subirTopo').fadeIn();
-        } else {
-            jQuery('#subirTopo').fadeOut();
-        }
-    });
-});

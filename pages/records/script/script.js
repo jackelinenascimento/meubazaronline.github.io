@@ -4,7 +4,7 @@ function cards(json){
     return `
     <div class="card m-4" style="width: 18rem">
         <img class="card-img-top" src="./img/${json.image}" alt="Card image cap">   
-        <h5 class="card-title">Título:<strong> ${json.title}</strong></h5>
+        <h5 class="card-title text-center mt-4">Título:<strong> ${json.title}</strong></h5>
         <p class="card-text">Artista:<strong> ${json.artist}</strong></p>    
         <p class="card-text">Quantidade de discos:<strong> ${json.discs}</strong></p> 
         <p class="card-text">Origem:<strong> ${json.origem}</strong></p>
@@ -26,23 +26,3 @@ async function records() {
 }
 
 records()
-
-jQuery(document).ready(function () {
-
-    jQuery("#subirTopo").hide();
-
-    jQuery('a#subirTopo').click(function () {
-        jQuery('body,html').animate({
-            scrollTop: 0
-        }, 800);
-        return false;
-    });
-
-    jQuery(window).scroll(function () {
-        if (jQuery(this).scrollTop() > 800) {
-            jQuery('#subirTopo').fadeIn();
-        } else {
-            jQuery('#subirTopo').fadeOut();
-        }
-    });
-});
