@@ -5,7 +5,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Polygram Discos Ltda",
-		"image": "./img/CoresCaetano.jpg"
+		"image": "CoresCaetano.jpg"
 	},
 	{
 		"title": "O Tempo não Pára - Ao Vivo",
@@ -13,7 +13,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Polygram Discos Ltda",
-		"image": "./img/OTempoNaoParaCazuzaAoVivo.jpg"
+		"image": "OTempoNaoParaCazuzaAoVivo.jpg"
 	},
 	{
 		"title": "Notorious",
@@ -21,7 +21,7 @@
 		"discs": "1",
 		"origem": "Internacional",
 		"productor": "EMI Records",
-		"image": "./img/NotoriousDuranDuran.jpg"
+		"image": "NotoriousDuranDuran.jpg"
 	},
 	{
 		"title": "Arena - Recorded Around The World 1984",
@@ -29,7 +29,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "EMI - ODEON",
-		"image": "./img/ArenaDuranDuran.jpg"
+		"image": "ArenaDuranDuran.jpg"
 	},
 	{
 		"title": "O Papa é Pop",
@@ -37,7 +37,7 @@
 		"discs": "2",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/engenheiros-papa-pop.jpg"
+		"image": "engenheiros-papa-pop.jpg"
 	},
 	{
 		"title": "Watermark",
@@ -45,7 +45,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/enya-watermark.jpg"
+		"image": "enya-watermark.jpg"
 	},
 	{
 		"title": "As Quatro Estações",
@@ -53,7 +53,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Mayrton Bahia",
-		"image": "./img/legiao-urbana-4-estacoes.jpg"
+		"image": "legiao-urbana-4-estacoes.jpg"
 	},
 	{
 		"title": "The Immaculate Collection",
@@ -61,7 +61,7 @@
 		"discs": "2",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/madonna-immaculate.jpg"
+		"image": "madonna-immaculate.jpg"
 	},
 	{
 		"title": "New Order",
@@ -69,7 +69,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "RCA Eletronica Ltda",
-		"image": "./img/new-order.jpg"
+		"image": "new-order.jpg"
 	},
 	{
 		"title": "Technique",
@@ -77,7 +77,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/technique-new-order.jpg"
+		"image": "technique-new-order.jpg"
 	},
 	{
 		"title": "Paralamas Arquivo Maiores Sucessos",
@@ -85,7 +85,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Fonobras",
-		"image": "./img/OsParalamasDoSucessoArquivo.jpg"
+		"image": "OsParalamasDoSucessoArquivo.jpg"
 	},
 	{
 		"title": "Out Of Time",
@@ -93,7 +93,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/OutOfTimeREM.jpg"
+		"image": "OutOfTimeREM.jpg"
 	},
 	{
 		"title": "Standing On A Beach - The Singles",
@@ -101,7 +101,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Polygram Discos Ltda",
-		"image": "./img/StandingOnABeachTheCure.jpg"
+		"image": "StandingOnABeachTheCure.jpg"
 	},
 	{
 		"title": "Concert - The Cure Live",
@@ -109,7 +109,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Fonobras",
-		"image": "./img/the-cure-concert.jpg"
+		"image": "the-cure-concert.jpg"
 	},
 	{
 		"title": "Kiss Me Kiss Me Kiss Me",
@@ -117,7 +117,7 @@
 		"discs": "2",
 		"origem": "Nacional",
 		"productor": "Fonobras",
-		"image": "./img/the-cure-kiss-kiss.jpg"
+		"image": "the-cure-kiss-kiss.jpg"
 	},
 	{
 		"title": "The Queen Is Dead",
@@ -125,7 +125,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "RCA Eletronica Ltda",
-		"image": "./img/TheQueenIsDeadTheSmiths.jpg"
+		"image": "TheQueenIsDeadTheSmiths.jpg"
 	},
 	{
 		"title": "Tracy Chapman",
@@ -133,7 +133,7 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "BMG Ariola Discos Ltda",
-		"image": "./img/tracy-chapman.jpg"
+		"image": "tracy-chapman.jpg"
 	},
 	{
 		"title": "The Joshua Tree",
@@ -141,6 +141,6 @@
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "RCA Eletronica Ltda",
-		"image": "./img/u2-joshua-tree.jpg"
+		"image": "u2-joshua-tree.jpg"
 	}
 ]

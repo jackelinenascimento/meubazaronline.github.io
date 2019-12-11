@@ -17,10 +17,8 @@ async function books() {
         const response = await fetch('./data/books.json')
         if(!response.ok) throw `com o status: ${response.status}`
         const json = await response.json()
-        console.log(json)
         for (let i=0; i<=json.length; i++){
             cardSection.innerHTML += cards(json[i])
-            console.log(cards(json[1]))
         }
     }catch(e){
       
