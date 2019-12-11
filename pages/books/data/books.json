@@ -1,0 +1,434 @@
+﻿[
+	{
+		"name": "O Efeito Sombra",
+		"autor": "Deepak Chopra",
+		"genre": "Auto-ajuda",
+		"colection": "não",
+		"language": "português",
+		"image": "efeito-sombra.jpg"
+	},
+	{
+		"name": "Tarsila do Amaral A Modernista",
+		"autor": "Nádia Battella Gotlib",
+		"genre": "Bibliográfico",
+		"colection": "não",
+		"language": "português",
+		"image": "tarsila-amaral.jpg"
+	},
+	{
+		"name": "Alice in Wonderland - Based on the film of Tim Burton",
+		"autor": "T. T. Sutherland",
+		"genre": "Cinema",
+		"colection": "não",
+		"language": "inglês",
+		"image": "alice-wonderland.jpg"
+	},
+	{
+		"name": "Matrix - Bem-vindo ao Deserto do Real",
+		"autor": "Willian Irwin",
+		"genre": "Cinema",
+		"colection": "não",
+		"language": "português",
+		"image": "matrix.jpg"
+	},
+	{
+		"name": "A Máquina do Tempo",
+		"autor": "H. G. Wells",
+		"genre": "Clássicos",
+		"colection": "não",
+		"language": "português",
+		"image": "a-maquina-do-tempo.jpg"
+	},
+	{
+		"name": "A Volta ao Mundo em 80 Dias",
+		"autor": "Júlio Verne",
+		"genre": "Clássicos",
+		"colection": "Coleção Júlio Verne",
+		"language": "português",
+		"image": "volta-ao-mundo.jpg"
+	},
+	{
+		"name": "Alice - no País da Maravilhas e Através do Espelho",
+		"autor": "Lewis Carroll",
+		"genre": "Clássicos",
+		"colection": "Edição Comentada",
+		"language": "português",
+		"image": "alice-pais-das-maravilhas.jpg"
+	},
+	{
+		"name": "Dios no Juega a Los Dados",
+		"autor": "Albert Einstein",
+		"genre": "Clássicos",
+		"colection": "não",
+		"language": "espanhol",
+		"image": "einstein.jpg"
+	},
+	{
+		"name": "Maktub!",
+		"autor": "Malba Tahan",
+		"genre": "Clássicos",
+		"colection": "não",
+		"language": "português",
+		"image": "maktub.jpg"
+	},
+	{
+		"name": "Medeia A Feiticeira",
+		"autor": "Valérie Sigward",
+		"genre": "Clássicos",
+		"colection": "Histórias Sombrias da Mitologia Grega",
+		"language": "português",
+		"image": "medeia.jpg"
+	},
+	{
+		"name": "Morte e Vida Severina",
+		"autor": "João Cabral de Melo Neto",
+		"genre": "Clássicos",
+		"colection": "não",
+		"language": "português",
+		"image": "severina.jpg"
+	},
+	{
+		"name": "O Vigário de Wakefield",
+		"autor": "Oliver goldsmith",
+		"genre": "Clássicos",
+		"colection": "Clássicos de Bolso",
+		"language": "português",
+		"image": "vigario.jpg"
+	},
+	{
+		"name": "Orfeu O Encantador",
+		"autor": "Guy Jimenes",
+		"genre": "Clássicos",
+		"colection": "Histórias Sombrias da Mitologia Grega",
+		"language": "português",
+		"image": "orfeu.jpg"
+	},
+	{
+		"name": "The Canterville Ghost - Level Itermedate B1",
+		"autor": "Oscar Wilde",
+		"genre": "Clássicos",
+		"colection": "Helbling Readers",
+		"language": "inglês",
+		"image": "canterville.jpg"
+	},
+	{
+		"name": "Viagem ao Centro da Terra",
+		"autor": "Júlio Verne",
+		"genre": "Clássicos",
+		"colection": "Coleção Júlio Verne",
+		"language": "português",
+		"image": "viagem-ao-centro-da-terra.jpg"
+	},
+	{
+		"name": "Gestos Japoneses",
+		"autor": "Hamiro-aqui",
+		"genre": "Guia de Conversação",
+		"colection": "Para se descolar em japonês",
+		"language": "português",
+		"image": "japoneses.jpg"
+	},
+	{
+		"name": "Na Vida Dez Na Escola Zero",
+		"autor": "Terezinha Nunes",
+		"genre": "Educação Matemática",
+		"colection": "não",
+		"language": "português",
+		"image": "na-vida-dez.jpg"
+	},
+	{
+		"name": "Animais Fantasticos e Onde Habitam",
+		"autor": "J. K. Rowling ",
+		"genre": "Ficção",
+		"colection": "não",
+		"language": "português",
+		"image": "animais.jpg"
+	},
+	{
+		"name": "Assassinos - 6º livro da coleção",
+		"autor": "Tim LaHaye",
+		"genre": "Ficção Apocalípitca",
+		"colection": "Deixados para Trás",
+		"language": "português",
+		"image": "assassinos.jpg"
+	},
+	{
+		"name": "Para Se Descolar em Japonês",
+		"autor": "Todd & Erila Geers",
+		"genre": "Guia de Conversação",
+		"colection": "Para se descolar em japonês",
+		"language": "português",
+		"image": "japoneses.jpg"
+	},
+	{
+		"name": "Como a Matemática Explica o Mundo",
+		"autor": "James D. Stein",
+		"genre": "História",
+		"colection": "não",
+		"language": "português",
+		"image": "matematica-explica.jpg"
+	},
+	{
+		"name": "O Teorema do Papagaio",
+		"autor": "Denis guedj",
+		"genre": "História",
+		"colection": "não",
+		"language": "português",
+		"image": "papagaio.jpg"
+	},
+	{
+		"name": "Prometeu Os Homens e Outros Mitos",
+		"autor": "Menelaos Stephanides",
+		"genre": "História",
+		"colection": "não",
+		"language": "português",
+		"image": "prometeus.jpg"
+	},
+	{
+		"name": "Death Note 1 - Tédio",
+		"autor": "Tsugumi Ohba",
+		"genre": "Mangá",
+		"colection": "Death Note",
+		"language": "português",
+		"image": "death01.jpg"
+	},
+	{
+		"name": "Death Note 11 - Concordância",
+		"autor": "Tsugumi Ohba",
+		"genre": "Mangá",
+		"colection": "Death Note",
+		"language": "português",
+		"image": "death11.jpg"
+	},
+	{
+		"name": "O Amor As Mulheres e a Vida - Antologia de poemas de amor",
+		"autor": "Mario Benedetti",
+		"genre": "Poemas",
+		"colection": "não",
+		"language": "português",
+		"image": "mario.jpg"
+	},
+	{
+		"name": "Sentimento do Mundo",
+		"autor": "Carlos Drummond de Andrade",
+		"genre": "Poemas",
+		"colection": "não",
+		"language": "português",
+		"image": "sentimento-de-mundo.jpg"
+	},
+	{
+		"name": "As Fúrias",
+		"autor": "Mike Carey",
+		"genre": "Quadrinhos",
+		"colection": "não",
+		"language": "português",
+		"image": "as-furias.jpg"
+	},
+	{
+		"name": "Os 300 de Esparta",
+		"autor": "Frank Miller",
+		"genre": "Quadrinhos",
+		"colection": "não",
+		"language": "português",
+		"image": "os300.jpg"
+	},
+	{
+		"name": "Entre Atos",
+		"autor": "Virginia Woolf",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "virginia.jpg"
+	},
+	{
+		"name": "Fátima Fez Os Pés Para Mostrar Na Choperia",
+		"autor": "Marcelo Mirisola",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "fatima.jpg"
+	},
+	{
+		"name": "O Amor nos Tempos do Cólera",
+		"autor": "Gabriel Garcia Márques",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "colera.jpg"
+	},
+	{
+		"name": "O Caçador de Pipas",
+		"autor": "Khaled Hosseini",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "pipas.jpg"
+	},
+	{
+		"name": "O Lado Bom da Vida",
+		"autor": "Matthew Quick",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "lado-bom.jpg"
+	},
+	{
+		"name": "O Teorema Katherine",
+		"autor": "John Green",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "katherine.jpg"
+	},
+	{
+		"name": "Os Homens Que não Amavam as Mulheres",
+		"autor": "Stieg Larsson",
+		"genre": "Romance",
+		"colection": "Trilogia Millennium",
+		"language": "português",
+		"image": "dragao.jpg"
+	},
+	{
+		"name": "P.S. Eu Te Amo",
+		"autor": "Cecelia Ahern",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "psteamo.jpg"
+	},
+	{
+		"name": "Para Todo o Sempre",
+		"autor": "Thierry Jonquet",
+		"genre": "Romance",
+		"colection": "Pocket Books",
+		"language": "português",
+		"image": "paratodosempre.jpg"
+	},
+	{
+		"name": "Persuasão - Edição Bilíngue",
+		"autor": "Jane Austen",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "persuasao.jpg"
+	},
+	{
+		"name": "Razão e Sentimento",
+		"autor": "Jane Austen",
+		"genre": "Romance",
+		"colection": "L&PM Pocket",
+		"language": "português",
+		"image": "razao-e-sentimento.jpg"
+	},
+	{
+		"name": "Sussurro",
+		"autor": "Becca Fitzpatrick",
+		"genre": "Romance",
+		"colection": "Hush",
+		"language": " Hush",
+		"image": "português"
+	},
+	{
+		"name": "The Devil Wears Prada",
+		"autor": "Lauren Weisberger",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "inglês",
+		"image": "prada.jpg"
+	},
+	{
+		"name": "Um Portal no Tempo",
+		"autor": "Manoel Bertozzi",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "tempo.jpg"
+	},
+	{
+		"name": "Uma Paixão Por Cultura",
+		"autor": "Carlos Eduardo Paletta Guedes",
+		"genre": "Romance",
+		"colection": "não",
+		"language": "português",
+		"image": "paixao.jpg"
+	},
+	{
+		"name": "Algebra Linear",
+		"autor": "Elon Lages Lima",
+		"genre": "Técnico",
+		"colection": "Matemática Universitária",
+		"language": "português",
+		"image": "alglinear.jpg"
+	},
+	{
+		"name": "Calculo Avançado V.I",
+		"autor": "Wlfred Kaplan",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "calc.jpg"
+	},
+	{
+		"name": "Calculo I 4ª Edição",
+		"autor": "James Stewart",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "quartaedicao.jpg"
+	},
+	{
+		"name": "Calculo I 5ª Edição",
+		"autor": "James Stewart",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "quintaedicao.jpg"
+	},
+	{
+		"name": "Calculo II 5ª Edição",
+		"autor": "James Stewart",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "quintaedicao-volume2.jpg"
+	},
+	{
+		"name": "Conjuntos e Funções",
+		"autor": "Gelson Iezzi",
+		"genre": "Técnico",
+		"colection": "Fundamentos da Matemática Elementar",
+		"language": "português",
+		"image": "matelementar01.jpg"
+	},
+	{
+		"name": "Física V.I ",
+		"autor": "Frederick J. Keller",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "fisica.jpg"
+	},
+	{
+		"name": "Física V.I 4ª Edição",
+		"autor": "Paul A. Tipler",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "fisica4edicao.jpg"
+	},
+	{
+		"name": "Introdução à Modelagem Análise e Simulação de Sistemas Dinâmicos",
+		"autor": "Antonio Carlos Zambroni de Souza",
+		"genre": "Técnico",
+		"colection": "não",
+		"language": "português",
+		"image": "sistemasdinamicos.jpg"
+	},
+	{
+		"name": "Limites Derivadas e Noções de Integral",
+		"autor": "Gelson Iezzi",
+		"genre": "Técnico",
+		"colection": "Fundamentos da Matemática Elementar",
+		"language": "português",
+		"image": "integralderivada.jpg"
+	}
+]
