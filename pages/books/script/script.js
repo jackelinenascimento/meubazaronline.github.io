@@ -1,5 +1,3 @@
-const cardSection = document.getElementById('card-section')
-
 function cards(json){
     return `
     <div class="card m-4" style="width: 18rem">
@@ -12,11 +10,12 @@ function cards(json){
     </div>`
 }
 
-async function books() {
+const books = async () => {
     try{
         const response = await fetch('./data/books.json')
         if(!response.ok) throw `com o status: ${response.status}`
         const json = await response.json()
+        const cardSection = document.getElementById('card-section')
         for (let i=0; i<=json.length; i++){
             cardSection.innerHTML += cards(json[i])
         }
@@ -27,3 +26,22 @@ async function books() {
 
 books()
 
+const onClick = async () => {
+    try{
+        const response = await fetch('./data/books.json')
+        if(!response.ok) throw `com o status: ${response.status}`
+        const json = await response.json()
+        const input = document.getElementById('input')
+
+        const search = json.filter(input.value)
+        
+        if (search.length > 0){
+            for (let i=0; i<=search.length; i++){
+                cardSection.innerHTML += cards(search[i])}
+        } else {
+            cardSection.innerHTML = "Tente novamente"
+        }
+                
+    }catch(e){
+    }
+}
