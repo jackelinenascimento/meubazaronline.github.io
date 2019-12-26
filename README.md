@@ -6,7 +6,7 @@
   - HTML5
   - CSS3
   - Bootstrap
-  - JavaScrip
+  - JavaScript
   - JQuery
   
 ## Link para acesso no GitHub Pages:
