@@ -56,14 +56,6 @@
 		"image": "legiao-urbana-4-estacoes.jpg"
 	},
 	{
-		"title": "The Immaculate Collection",
-		"artist": "Madonna",
-		"discs": "2",
-		"origem": "Nacional",
-		"productor": "BMG Ariola Discos Ltda",
-		"image": "madonna-immaculate.jpg"
-	},
-	{
 		"title": "New Order",
 		"artist": "New Order",
 		"discs": "1",
@@ -80,14 +72,6 @@
 		"image": "technique-new-order.jpg"
 	},
 	{
-		"title": "Paralamas Arquivo Maiores Sucessos",
-		"artist": "Os Paralamas do Sucesso",
-		"discs": "1",
-		"origem": "Nacional",
-		"productor": "Fonobras",
-		"image": "OsParalamasDoSucessoArquivo.jpg"
-	},
-	{
 		"title": "Out Of Time",
 		"artist": "R.E.M.",
 		"discs": "1",
@@ -96,36 +80,12 @@
 		"image": "OutOfTimeREM.jpg"
 	},
 	{
-		"title": "Standing On A Beach - The Singles",
-		"artist": "The Cure",
-		"discs": "1",
-		"origem": "Nacional",
-		"productor": "Polygram Discos Ltda",
-		"image": "StandingOnABeachTheCure.jpg"
-	},
-	{
 		"title": "Concert - The Cure Live",
 		"artist": "The Cure",
 		"discs": "1",
 		"origem": "Nacional",
 		"productor": "Fonobras",
 		"image": "the-cure-concert.jpg"
-	},
-	{
-		"title": "Kiss Me Kiss Me Kiss Me",
-		"artist": "The Cure",
-		"discs": "2",
-		"origem": "Nacional",
-		"productor": "Fonobras",
-		"image": "the-cure-kiss-kiss.jpg"
-	},
-	{
-		"title": "The Queen Is Dead",
-		"artist": "The Smiths",
-		"discs": "1",
-		"origem": "Nacional",
-		"productor": "RCA Eletronica Ltda",
-		"image": "TheQueenIsDeadTheSmiths.jpg"
 	},
 	{
 		"title": "Tracy Chapman",
